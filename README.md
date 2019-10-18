@@ -12,7 +12,7 @@
 We'd like you to use React, SCSS and bootstrap. On top of that, use whatever front-end libraries you feel comfortable with.
 
 #### Setup
-1. Fork or duplicate this repo
+1. Duplicate this repo. Please do not fork this repo!
 2. Run `npm install` and `npm start`
 3. Open your browser at [http://localhost:3000/](http://localhost:3000/)
 
