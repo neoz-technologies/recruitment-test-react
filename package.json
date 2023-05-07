@@ -35,7 +35,7 @@
     "node-sass": "^4.12.0",
     "npx": "^10.2.0",
     "react-axe": "^3.3.0",
-    "react-scripts": "^3.1.2",
+    "react-scripts": "^5.0.1",
     "typescript": "^3.6.3"
   },
   "eslintConfig": {
